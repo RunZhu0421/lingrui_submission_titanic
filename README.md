@@ -1,2 +1,2 @@
-# for_lingrui_submission
-凌睿招新题提交
+# lingrui_studio_titanic
+凌睿二轮泰坦尼克提交
